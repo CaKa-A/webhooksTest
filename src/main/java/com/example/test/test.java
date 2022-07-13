@@ -4,5 +4,4 @@ public class test {
     String name;
     String password;
     String test;
-    String test1;
 }
